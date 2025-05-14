@@ -15,7 +15,7 @@ from states.registration import *
 # Включаем логирование, чтобы не пропустить важные сообщения
 logging.basicConfig(level=logging.INFO)
 # Объект бота
-bot = Bot(token="7741574376:AAFbDSsbOyyLdVtVHHsEZbr1pHs4oZ-JiJs")
+bot = Bot(token="")
 # Диспетчер
 dp = Dispatcher()
 
